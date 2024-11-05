@@ -35,3 +35,6 @@ Nun haben wir das Dokument erstellt und können die Struktur bauen. Jedes HTML F
 HTML benutzt
 
 Mit [W3School](https://www.w3schools.com/html/default.asp) kann man alles über HTML sehr gut lernen und die einzelnen Tag lernen.
+
+### Webseiten Referenz (only HTML)
+![](/_images/Referenz-Bild-HTML.png)
